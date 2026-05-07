@@ -52,7 +52,7 @@ Laravel を利用したREST APIです。
 
 ## README
 
-- Frontend README
-- Backend README
+- [Frontend README](https://github.com/kei220324/project_management_frontend)
+- [Backend README](https://github.com/kei220324/project_management_backend)
 
 それぞれの詳細は各READMEに記載しています。
